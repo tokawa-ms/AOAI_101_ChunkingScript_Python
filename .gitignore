@@ -224,4 +224,4 @@ pyrightconfig.json
 # Ignore data files
 data/*.txt
 data/output/*.txt
-chuked_dataset.json
+chunked_dataset.json
